@@ -1,0 +1,1032 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'es' Physical Memory: 14267 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/coyad/OneDrive/Escritorio/Unity2D/Intro_Setup/Number Wizard Console
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64330
+Successfully changed project path to: C:/Users/coyad/OneDrive/Escritorio/Unity2D/Intro_Setup/Number Wizard Console
+C:/Users/coyad/OneDrive/Escritorio/Unity2D/Intro_Setup/Number Wizard Console
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/coyad/OneDrive/Escritorio/Unity2D/Intro_Setup/Number Wizard Console/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     7133 MB
+    Driver:   27.20.21002.112
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003030 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 51.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.641 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.533 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 2.989400 ms (FindLiveObjects: 0.220800 ms CreateObjectMapping: 0.049800 ms MarkObjects: 2.561900 ms  DeleteObjects: 0.155200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0b4e14d2dc57fb0e87643459039942') in 0.206682 seconds
+  Import took 0.217224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.710752 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78ab2bf35ff7e7c3be26f9404e14103') in 0.010843 seconds
+  Import took 0.027216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.893002 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d6689d40037b138c5ddf24a4397bc8') in 0.009171 seconds
+  Import took 0.015785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.370641 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233ee3014d8a225b070ef014e738906d') in 0.010752 seconds
+  Import took 0.015931 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2517.
+Total: 2.703500 ms (FindLiveObjects: 0.235800 ms CreateObjectMapping: 0.059200 ms MarkObjects: 2.281600 ms  DeleteObjects: 0.125600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2521.
+Total: 2.721000 ms (FindLiveObjects: 0.222200 ms CreateObjectMapping: 0.049300 ms MarkObjects: 2.319400 ms  DeleteObjects: 0.128700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.477499 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0c8a7eeecb5a13b078ca1b6c90863e') in 0.007084 seconds
+  Import took 0.010477 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.368 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2525.
+Total: 2.407000 ms (FindLiveObjects: 0.215000 ms CreateObjectMapping: 0.049000 ms MarkObjects: 2.019500 ms  DeleteObjects: 0.122200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005653 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.218 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2529.
+Total: 4.260900 ms (FindLiveObjects: 0.259500 ms CreateObjectMapping: 0.054300 ms MarkObjects: 3.548100 ms  DeleteObjects: 0.396900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3844.043713 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b30e28c60dfedb18b800c9b7705affc') in 0.009102 seconds
+  Import took 0.013023 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007421 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.260 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2533.
+Total: 2.404400 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.049600 ms MarkObjects: 2.012000 ms  DeleteObjects: 0.124100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.899065 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f19771fafe038ec666eeef19cf5d630') in 0.007665 seconds
+  Import took 0.011426 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.500 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2537.
+Total: 2.919700 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.049400 ms MarkObjects: 2.408800 ms  DeleteObjects: 0.234400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 444.238406 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46488a8be36368a809eb6387cd6905c4') in 0.018267 seconds
+  Import took 0.045214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085452 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46488a8be36368a809eb6387cd6905c4') in 0.008242 seconds
+  Import took 0.011796 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008747 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.271 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2541.
+Total: 5.213800 ms (FindLiveObjects: 1.046600 ms CreateObjectMapping: 0.147500 ms MarkObjects: 3.589100 ms  DeleteObjects: 0.428700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2545.
+Total: 2.670000 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.048200 ms MarkObjects: 2.267000 ms  DeleteObjects: 0.128200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.505167 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1e5796ccd010c207cbd9e859596ab6') in 0.007291 seconds
+  Import took 0.022113 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.323 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2549.
+Total: 3.578400 ms (FindLiveObjects: 0.340700 ms CreateObjectMapping: 0.079800 ms MarkObjects: 3.021300 ms  DeleteObjects: 0.135100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.293213 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55b430dab4caf0411a5266dade0d831') in 0.015057 seconds
+  Import took 0.019824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101945 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55b430dab4caf0411a5266dade0d831') in 0.006449 seconds
+  Import took 0.009939 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2553.
+Total: 3.880800 ms (FindLiveObjects: 0.238200 ms CreateObjectMapping: 0.057100 ms MarkObjects: 3.441500 ms  DeleteObjects: 0.142500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.519 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2557.
+Total: 4.125000 ms (FindLiveObjects: 0.336200 ms CreateObjectMapping: 0.158800 ms MarkObjects: 3.495300 ms  DeleteObjects: 0.133200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.225 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 2.495000 ms (FindLiveObjects: 0.233100 ms CreateObjectMapping: 0.052500 ms MarkObjects: 2.058400 ms  DeleteObjects: 0.149700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.940044 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f74f6242c6d198555724e17b11055c') in 0.007738 seconds
+  Import took 0.024749 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008436 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 2.699700 ms (FindLiveObjects: 0.218700 ms CreateObjectMapping: 0.050600 ms MarkObjects: 2.292000 ms  DeleteObjects: 0.136800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.211614 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1947309c7a52170b1308518cb7f17b') in 0.009066 seconds
+  Import took 0.022037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098277 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1947309c7a52170b1308518cb7f17b') in 0.005902 seconds
+  Import took 0.010003 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2569.
+Total: 2.933500 ms (FindLiveObjects: 0.227500 ms CreateObjectMapping: 0.049200 ms MarkObjects: 2.499200 ms  DeleteObjects: 0.155800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.665216 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf66e6ec479edf2d10d0115b416a688b') in 0.010391 seconds
+  Import took 0.032348 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005907 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2573.
+Total: 3.572400 ms (FindLiveObjects: 0.248700 ms CreateObjectMapping: 0.069200 ms MarkObjects: 2.979300 ms  DeleteObjects: 0.273500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.055859 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fea44c04b796b3cd0c8e5d5af8383d5') in 0.006958 seconds
+  Import took 0.025742 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006548 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2577.
+Total: 2.503100 ms (FindLiveObjects: 0.243600 ms CreateObjectMapping: 0.059000 ms MarkObjects: 2.071400 ms  DeleteObjects: 0.127800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.995119 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ead2e8131b6f7bdd2d8b14a03adfa7') in 0.007505 seconds
+  Import took 0.018710 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006099 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2581.
+Total: 2.672400 ms (FindLiveObjects: 0.222000 ms CreateObjectMapping: 0.062500 ms MarkObjects: 2.250900 ms  DeleteObjects: 0.135100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.139284 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25c36590d7a6052a80a3cd1e92a3284') in 0.010849 seconds
+  Import took 0.029369 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2585.
+Total: 2.696500 ms (FindLiveObjects: 0.223900 ms CreateObjectMapping: 0.050500 ms MarkObjects: 2.294000 ms  DeleteObjects: 0.126800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.726158 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19420b79dddc01a6c3f9ed202a807ddb') in 0.009924 seconds
+  Import took 0.023210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107555 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19420b79dddc01a6c3f9ed202a807ddb') in 0.007281 seconds
+  Import took 0.010728 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005137 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.458 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2589.
+Total: 2.544300 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.051200 ms MarkObjects: 2.119000 ms  DeleteObjects: 0.139100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.114151 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2af0ee8ff9f08eec608ab3c4c4481aa') in 0.010265 seconds
+  Import took 0.014610 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005141 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.597 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2593.
+Total: 2.486500 ms (FindLiveObjects: 0.223200 ms CreateObjectMapping: 0.049900 ms MarkObjects: 2.075400 ms  DeleteObjects: 0.137000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.012254 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4ed37a2efd8fc2fa38909339bc89e5') in 0.006931 seconds
+  Import took 0.010502 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006031 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2597.
+Total: 5.178300 ms (FindLiveObjects: 0.256900 ms CreateObjectMapping: 0.058600 ms MarkObjects: 4.731300 ms  DeleteObjects: 0.129600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.070880 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941f64639f8c1cc9ba9861e6650477a0') in 0.014913 seconds
+  Import took 0.033071 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2601.
+Total: 2.663300 ms (FindLiveObjects: 0.224800 ms CreateObjectMapping: 0.049800 ms MarkObjects: 2.239600 ms  DeleteObjects: 0.147800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.021364 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e723131b2fea0b1e0b1885055f8605') in 0.008083 seconds
+  Import took 0.011859 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006274 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2605.
+Total: 2.498500 ms (FindLiveObjects: 0.225500 ms CreateObjectMapping: 0.050200 ms MarkObjects: 2.087100 ms  DeleteObjects: 0.134700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.099253 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10f641423118f554902681b67900aef') in 0.011459 seconds
+  Import took 0.036299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083101 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10f641423118f554902681b67900aef') in 0.011109 seconds
+  Import took 0.014631 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007014 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2609.
+Total: 2.722800 ms (FindLiveObjects: 0.238000 ms CreateObjectMapping: 0.050700 ms MarkObjects: 2.214800 ms  DeleteObjects: 0.217900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.597724 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae3f98c1b58a9c26051552abebdba04') in 0.007805 seconds
+  Import took 0.011363 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.407 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2613.
+Total: 2.902100 ms (FindLiveObjects: 0.231900 ms CreateObjectMapping: 0.050400 ms MarkObjects: 2.475100 ms  DeleteObjects: 0.142900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2617.
+Total: 2.747700 ms (FindLiveObjects: 0.229900 ms CreateObjectMapping: 0.050100 ms MarkObjects: 2.221000 ms  DeleteObjects: 0.245100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 643.755833 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615c0b8265fabbec2c90d88bfcf14f38') in 0.010951 seconds
+  Import took 0.026354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090097 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615c0b8265fabbec2c90d88bfcf14f38') in 0.004244 seconds
+  Import took 0.007982 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2621.
+Total: 2.814200 ms (FindLiveObjects: 0.266000 ms CreateObjectMapping: 0.052200 ms MarkObjects: 2.341100 ms  DeleteObjects: 0.153200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.068233 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac2eebf8f8856ff2553cf5f709312f6') in 0.008356 seconds
+  Import took 0.021273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096859 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac2eebf8f8856ff2553cf5f709312f6') in 0.005704 seconds
+  Import took 0.008953 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.216 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 2.594800 ms (FindLiveObjects: 0.234500 ms CreateObjectMapping: 0.049700 ms MarkObjects: 2.181900 ms  DeleteObjects: 0.127200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3026.743186 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241dbac78f2906e09e25b0cbab4f04df') in 0.008832 seconds
+  Import took 0.012192 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005590 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.245 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2629.
+Total: 3.017000 ms (FindLiveObjects: 0.289900 ms CreateObjectMapping: 0.076900 ms MarkObjects: 2.511800 ms  DeleteObjects: 0.137000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.332322 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf87dd232160e5207febc9409d5e7d4') in 0.008161 seconds
+  Import took 0.011388 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005271 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2633.
+Total: 2.934900 ms (FindLiveObjects: 0.246100 ms CreateObjectMapping: 0.051500 ms MarkObjects: 2.506400 ms  DeleteObjects: 0.129500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.920790 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b542206a0c0e660f0f2132a2de26cb') in 0.008579 seconds
+  Import took 0.023001 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006615 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.308 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2637.
+Total: 4.613900 ms (FindLiveObjects: 0.243400 ms CreateObjectMapping: 0.060500 ms MarkObjects: 4.177100 ms  DeleteObjects: 0.131200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006639 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2075 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.8 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2641.
+Total: 2.489300 ms (FindLiveObjects: 0.231200 ms CreateObjectMapping: 0.049700 ms MarkObjects: 2.081300 ms  DeleteObjects: 0.125700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2225.233830 seconds.
+  path: Assets/NumberWizard.cs
+  artifactKey: Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NumberWizard.cs using Guid(3f0955d705bd75b469a9b7672a771e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bf71cd4b44eff8e61746d917c7c15b') in 0.024914 seconds
+  Import took 0.028427 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
